@@ -7,5 +7,5 @@ You can view the meal detail
 
 ![image](https://github.com/user-attachments/assets/dd93a945-ebf1-433a-88e3-48fd635c5568)
 
-
+You can share your favorite meal
 ![image](https://github.com/user-attachments/assets/e118f9bb-5374-4941-a6cc-1ccb5facd910)
